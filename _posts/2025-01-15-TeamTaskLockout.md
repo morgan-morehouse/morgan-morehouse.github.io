@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Team Task: Lockout (Team 3)
+title: "Team Task: Lockout (Team 3)"
 ---
 
 First, we looked at the IP addresses of our 2 working computers. We ran the nmap command, but got confused because we didn’t understand how to use it yet. Then we ran Ifconfig to find our subnet mask and IP addresses, and did a couple of binary combinations to find that it was /22.
